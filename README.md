@@ -2,7 +2,7 @@
   <h3> Helloo 😵</h3>
   <p> Just an engineering student trying to do too many things in too many aspects. </p>
     
-  <p> Thank goodness for this readme letting me find an actual use for the pure HTML I learnt when I was bored </p>
+  <p> Thank goodness for this readme giving me a use for the HTML I learnt! </p>
 </body>
 
 
