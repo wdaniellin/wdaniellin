@@ -1,8 +1,8 @@
 <body>
   <h3> Helloo 😵</h3>
-  <p> Just an engineering student trying to do too many things in too many aspects. </p>
+  <p> Just an engineering student messing around. </p>
     
-  <p> Thank goodness for this readme giving me a use for the HTML I learnt! </p>
+  <p> Thank goodness for this readme giving me a use for HTML</p>
 </body>
 
 
