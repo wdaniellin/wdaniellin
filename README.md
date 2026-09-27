@@ -1,7 +1,7 @@
 <body>
-  <h3> Heyy, I'm Daniel 😵</h3>
-  <p> Just an engineering student messing around. </p>
-  <p> Currently interested in Ai and computer vision :></p>
+  <h3>Heyy, I'm Daniel 😵</h3>
+  <p>Just an engineering student messing around. </p>
+  <p>Currently interested in ai and computer vision :></p>
 </body>
 
 
