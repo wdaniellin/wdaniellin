@@ -1,8 +1,7 @@
 <body>
-  <h3> Helloo 😵</h3>
+  <h3> Heyy, I'm Daniel 😵</h3>
   <p> Just an engineering student messing around. </p>
-    
-  <p> Thank goodness for this readme giving me a use for HTML</p>
+  <p> Currently interested in Ai and computer vision :></p>
 </body>
 
 
